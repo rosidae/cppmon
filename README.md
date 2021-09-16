@@ -1,1 +1,1 @@
-currently windows only, sorry.
+currently windows only, sorry. (actually idk yet)
