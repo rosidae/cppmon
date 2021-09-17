@@ -1,0 +1,4 @@
+.vscode/*
+cmon.exe
+include/boost/*
+libs/*
