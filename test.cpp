@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "readadsad\n";
+    std::cout << "Xaxaaaaa\n";
     return 0;
 }
