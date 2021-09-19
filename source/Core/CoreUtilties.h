@@ -2,6 +2,6 @@
 
 namespace Core {
     void Log(const char* text) {
-        std::cout << "[cppmon] " << text;
+        std::cout << "\n[cppmon] " << text << "\n";
     }
 }
